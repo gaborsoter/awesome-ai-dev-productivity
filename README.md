@@ -68,4 +68,4 @@ Developing...
 
 | Name                                                                                              | Categories               |
 | :------------------------------------------------------------------------------------------------ | :----------------------- |
-| <img src="images/logos/cursor.png" width="30">[Prompt2Model](https://arxiv.org/pdf/2308.12261v1/) | model development, paper |
+| [Prompt2Model](https://arxiv.org/pdf/2308.12261v1/) | model development, paper |
