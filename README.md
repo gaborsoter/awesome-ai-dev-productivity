@@ -1,20 +1,13 @@
 # ✨ AWESOME AI DEVELOPER PRODUCTIVITY TOOLS ✨
 
 
-The landscape of engineering and developing is changing rapidly.
-
+The landscape of engineering and development is changing rapidly.
 Everyday there are new tools and techniques emerging.
-
-No-one can say for sure exactly where this is heading, but we know things are going to be very differnt, and that it is very exciting.
-
-This Repe exists to capture as many tools and techniques as possible.
+No-one can say for sure exactly where this is heading, but we know things are going to be very different, and we are very excited about it.
+This Repo exists to capture as many tools and techniques as possible.
 
 
 ## Tools
-
-Got it. I'll classify tools with the category "coding" as "development tools" and the rest as "other tools". I will then create two separate markdown tables for each classification.
-
-Here are the two markdown tables:
 
 ### 💻 Development Tools
 
