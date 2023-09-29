@@ -22,7 +22,10 @@ This Repo exists to capture as many tools and techniques as possible.
 | <img src="images/logos/pieces.png" width="30"> [Pieces](https://pieces.app/)                              | Coding, IDE                                |
 | <img src="images/logos/cursor.png" width="30"> [Cursor](https://cursor.so/)                               | IDE, chat, edit, explain, fix              |
 | <img src="images/logos/codium.png" width="30"> [Codium](https://codeium.com/)                             | IDE, completion                            |
-| <img src="images/logos/copilot.jpg" width="30"> [Copilot](https://github.com/features/copilot)            | IDE, code, chat, PR, Explain               |
+| <img src="images/logos/copilot.jpg" width="30"> [Copilot](https://github.com/features/copilot)            | IDE, code, chat, PR, explain               |
+| <img src="images/logos/codestory.png" width="30"> [CodeStory](https://codestory.ai/)                      | IDE, code, chat, explain                   |
+| <img src="images/logos/replit.png" width="30"> [ReplIt](https://replit.com/site/ghostwriter)              | IDE, code, chat, explain                   |
+
 
 ### 🛠️ Other Tools
 
