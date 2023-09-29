@@ -46,7 +46,7 @@ This Repo exists to capture as many tools and techniques as possible.
 
 ## 🥋 Techniques
 
-Techniques and ideas about how to use prompts
+Techniques and ideas about how to develop with models
 
 
 _Coming soon..._
