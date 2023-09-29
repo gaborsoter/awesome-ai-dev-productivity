@@ -46,15 +46,20 @@ This Repo exists to capture as many tools and techniques as possible.
 
 ## 🥋 Techniques
 
+Techniques and ideas about how to use prompts
 
-Comming soon...
+
+_Coming soon..._
 
 
 ## 📚 Prompt Library
 
-[Unit Tests](prompts/unit-tests.md) 
-[Git Ignore](prompts/git-ignore.md)
-[Refactoring](prompts/refactoring.md) 
+Share useful and powerful prompts
+
+
+* [Unit Tests](prompts/unit-tests.md) 
+* [Git Ignore](prompts/git-ignore.md)
+* [Refactoring](prompts/refactoring.md) 
 
 
 ## 🔬 Highligted Papers
