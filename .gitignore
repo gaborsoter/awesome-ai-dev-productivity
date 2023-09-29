@@ -1,0 +1,34 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore Editor backup/swap files
+*.bak
+*.swp
+*.swo
+
+# Ignore log files
+*.log
+
+# Ignore temporary files
+*.tmp
+*~
+
+# Ignore build and distribution directories
+dist/
+build/
+
+# Ignore node modules (if using any tool that needs it)
+node_modules/
+
+# Ignore Python virtualenv (if using any tool that needs it)
+venv/
+
+# Ignore IDE specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# ai
+.whisper
