@@ -25,6 +25,7 @@ This Repo exists to capture as many tools and techniques as possible.
 | <img src="images/logos/copilot.jpg" width="30"> [Copilot](https://github.com/features/copilot)            | IDE, code, chat, PR, explain               |
 | <img src="images/logos/codestory.png" width="30"> [CodeStory](https://codestory.ai/)                      | IDE, code, chat, explain                   |
 | <img src="images/logos/replit.png" width="30"> [ReplIt](https://replit.com/site/ghostwriter)              | IDE, code, chat, explain                   |
+| <img src="images/logos/fine.png" width="30"> [Fine](https://www.fine.dev/)              | IDE, code gen, agents
 
 
 ### 🛠️ Other Tools
